@@ -1,0 +1,3 @@
+const APP_SECRET_VALUE = '761c11d7-ab5b-4767-b396-fe790e613352';
+
+export { APP_SECRET_VALUE };
